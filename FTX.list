@@ -2,6 +2,21 @@
 # UPDATED: 2022-08-1 17:32:43
 # HOST-SUFFIX: 2
 # TOTAL: 2
+HOST-SUFFIX,appsflayer.com,FTX
+HOST-SUFFIX,binance.cloud,FTX
+HOST-SUFFIX,binance.com,FTX
+HOST-SUFFIX,binance.me,FTX
+HOST-SUFFIX,bnappzh.co,FTX
+HOST-SUFFIX,bnbstatic.com,FTX
+HOST-SUFFIX,bnbzh.ac,FTX
+HOST-SUFFIX,bntrace.com,FTX
+HOST-SUFFIX,saasexch.com,FTX
+HOST-SUFFIX,segment.io,FTX
+HOST-SUFFIX,colorlessgreenumbralla.com,FTX
 HOST-SUFFIX,ftx.com,FTX
+HOST-SUFFIX,geetest.com,FTX
+HOST-SUFFIX,appcenter.ms,FTX
 HOST-KEYWORD,ftx,FTX
+HOST-KEYWORD,binance,FTX
 USER-AGENT,*ftx*,FTX
+USER-AGENT,*binance*,FTX
