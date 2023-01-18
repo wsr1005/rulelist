@@ -14,3 +14,17 @@ payload:
   - DOMAIN-SUFFIX,bnbzh.ac
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,saasexch.com
+  
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,appsflyer
+  - DOMAIN-KEYWORD,riskified
+  - DOMAIN-KEYWORD,siftscience
+  - DOMAIN-KEYWORD,commonservice
+  - DOMAIN-KEYWORD,myqcloud 
+  - DOMAIN-KEYWORD,starmap
+  - DOMAIN-KEYWORD,nbminer
+  - PROCESS-NAME,nbminer
+  - DOMAIN-KEYWORD,f2pool
+  - DOMAIN-KEYWORD,ethwmine
+  - DOMAIN-KEYWORD,hiveos
